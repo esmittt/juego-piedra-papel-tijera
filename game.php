@@ -135,7 +135,7 @@ if (isset($_POST['reset'])) {
         }
         
         .choice-btn {
-            background: #f0f0f0;
+            background: #38c414;
             border: 2px solid #ddd;
             border-radius: 10px;
             padding: 20px;
