@@ -219,7 +219,7 @@ if (isset($_POST['reset'])) {
         }
         
         .reset-btn:hover {
-            background: #c82333;
+            background: #2399c8;
         }
         
         .emoji {
