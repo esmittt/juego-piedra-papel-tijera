@@ -196,7 +196,7 @@ if (isset($_POST['reset'])) {
         
         .vs {
             font-weight: bold;
-            color: #667eea;
+            color: #ad1854;
             font-size: 28px;
         }
         
@@ -208,7 +208,7 @@ if (isset($_POST['reset'])) {
         }
         
         .reset-btn {
-            background: #dc3545;
+            background: #6adc35;
             color: white;
             border: none;
             padding: 10px 20px;
